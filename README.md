@@ -44,8 +44,10 @@ $ python main.py
 
 ## Lancer et tester les routes avec Postamn
   
-  Pour tester l'API, je vous invite à utiliser Postman et à importer cette collection via l'API de Postman : https://api.postman.com/collections/27816364-2675e944-4734-40c2-bcf0-d9b7ea5e3ef8?access_key=PMAT-01H2G3KJ6VPN8SY5TN22A50Y7D
-
+  Pour tester l'API, je vous invite à utiliser Postman et à importer cette collection via l'API de Postman : https://api.postman.com/collections/27816364-2675e944-4734-40c2-bcf0-d9b7ea5e3ef8?access_key=PMAT-01H2G3KJ6VPN8SY5TN22A50Y7D. 
+  Vous pouvez importer la collection directement sur postman et indiquer l'API dans le champ dédié comme ci-dessous.
+  <img width="486" alt="image" src="https://github.com/Ant01ne2/Movies/assets/96232442/5832a6ae-1f56-4756-ba6d-32e2c1d2b5b9">
+  
 Cette collection contient différents dossiers qui correspondent à toutes les routes citées précédemment, chacun de ces dossiers comporte :
   - Une requête pré-définie dont vous pouvez modifier le paramètre à mettre en entrée ;
   - Une requête avec un paramètre déjà défini servant d'exemple.
