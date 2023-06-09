@@ -2,7 +2,7 @@ from pymongo import MongoClient
 from neo4j import GraphDatabase, basic_auth
 
 
-client = MongoClient("mongodb+srv://ferreiraantoine:uniaCH4xkFY7G8wQ@cluster0.uqk1rfv.mongodb.net/")
+client = MongoClient("mongodb+srv://username:password@cluster0.uqk1rfv.mongodb.net/")
 db = client.sample_mflix
 collection = db.movies
 
