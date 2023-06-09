@@ -8,7 +8,7 @@ Pour lancer l'application, il vous faudra d'abord installer toutes les librairie
 $ pip install -r requirements.txt
 ```
 
-Dans le fichier connection.py, définissez les variables suivantes pour vous connecter à vos bases de données neo4j et mongo (pour la base de données Mongo, une instance est déjà défini et **normalement** fonctionne) :  
+Dans le fichier connection.py, définissez les variables suivantes pour vous connecter à vos bases de données neo4j et mongo :  
 
 ```python
 client = MongoClient("mongodb+srv://user:password@adresseDuCluster/") #URI de connexion à une instance MongoDB
